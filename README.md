@@ -51,5 +51,6 @@ App({
 }
 ```
 ### 3.index页
-![index](https://github.com/Van-Yo/wechat-case1/blob/master/images/index.png)
+![index](https://github.com/Van-Yo/wxcase/blob/master/images/index1.png)
+![index](https://github.com/Van-Yo/wxcase/blob/master/images/index2.png)
 ### 4.story页...
